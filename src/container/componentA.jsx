@@ -4,10 +4,10 @@ import ComponentB from "../pure/componentB";
 
 const ComponentA = () => {
   const defaultCharacteristics = new Characteristics(
-    "Alexis",
-    "Allende",
+    "Manolo",
+    "Roldan",
     "123@gmail.com",
-    false
+    true
   );
 
   return (
